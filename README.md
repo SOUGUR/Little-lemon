@@ -1,0 +1,1 @@
+This is the fully completed project for "Meta Back-End Developer Professional Certificate" in "Django Web Framework" session. This is a web application for a restraunt little Lemon, that allows to browse menu items and book a table
